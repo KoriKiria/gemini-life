@@ -1,0 +1,5 @@
+{
+  "name": "NeuroLife Terminal",
+  "description": "A browser-based 'Life Game' simulation where agents evolve using neural networks. Features a retro Linux terminal aesthetic, real-time evolutionary charts, and Gemini-powered analysis of agent behavior.",
+  "requestFramePermissions": []
+}
